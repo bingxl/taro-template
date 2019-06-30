@@ -1,0 +1,11 @@
+$color-brand: #7ED321;
+$page-back-color: #EFEFF4;
+$placeholder-color: #B2B2B2;
+
+page {
+    background: $page-back-color;
+}
+
+.placeholder {
+    color: $placeholder-color;
+}
